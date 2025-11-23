@@ -560,7 +560,7 @@ const HomeSection = ({ onNavigate }) => {
     <section id="home" className="min-h-screen">
       {/* Main Hero Section with Carousel */}
       <div 
-        className="min-h-screen flex items-center px-4 sm:px-6 scroll  sm:pt-20 transition-all duration-500 bg-white/50"
+        className="min-h-screen flex items-center px-4 sm:px-6 scroll pt-10 sm:pt-20 transition-all duration-500 bg-white/50"
       >
 
         <div className="max-w-7xl mx-auto w-full">
