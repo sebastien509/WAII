@@ -557,7 +557,7 @@ const HomeSection = ({ onNavigate }) => {
   const currentHero = heroSections[activeHero];
 
   return (
-    <section id="home" className="min-h-screen">
+    <section id="home"   className="min-h-screen">
       {/* Main Hero Section with Carousel */}
       <div 
         className="min-h-screen flex items-center px-4 sm:px-6 scroll pt-10 sm:pt-20 transition-all duration-500 bg-white/50"
